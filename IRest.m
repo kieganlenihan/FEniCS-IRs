@@ -51,9 +51,6 @@ figure(1); clf
 % Load
 subplot(2, 1, 1)
 plot(t0, load)
-
-12
-
 title('Load')
 grid on
 grid minor
